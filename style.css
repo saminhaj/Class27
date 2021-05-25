@@ -1,0 +1,20 @@
+.card-body img {
+	height: 300px;
+	width: 100%;
+}
+.carousel-item img {
+	height: 90vh;
+}
+.accordion-body img {
+	height: 250px;
+	width: 100%;
+}
+.accordion-item {
+	border: none;
+}
+.bg-info {
+	background-color: #0dcaf0 !important;
+}
+.accordion{
+	padding: 30px 0;
+}
