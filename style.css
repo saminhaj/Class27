@@ -18,3 +18,7 @@
 .accordion{
 	padding: 30px 0;
 }
+.accordion-button.collapsed {
+	background-color: #0dcaf0;
+	border-top: 1px solid #000;
+}
